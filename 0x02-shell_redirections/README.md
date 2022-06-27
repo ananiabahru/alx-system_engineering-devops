@@ -6,4 +6,5 @@
 4.4-lastlines -> Display the last 10 lines of /etc/passwd
 5.5-firstlines -> Display the first 10 lines of /etc/passwd
 6.6-third line -> Write a script that displays the third line of the file iacta
-7.7-file -> Write a shell script that creates a file8.8-cwd state -> Write a script that writes into the file ls_cwd_content
+7.7-file -> Write a shell script that creates a file8.8-cwd state -> Write a script that writes into the file ls_cwd_contenit
+9.9-duplicate_last_line -> Write a script that duplicates the last line of the file iacta
